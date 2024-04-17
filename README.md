@@ -15,6 +15,7 @@ Note: Page reloads may take up to 20 seconds as free deployment
 - **jsonwebtoken**: Library for creating and verifying JSON Web Tokens (JWT).
 - **dotenv**: Module for loading environment variables from a `.env` file.
 - **cookie-parser**: Middleware for parsing cookies.
+- **socket.io**: for establishing WebSocket connections
 
 ### Frontend
 - **React.js**: JavaScript library for building user interfaces.
