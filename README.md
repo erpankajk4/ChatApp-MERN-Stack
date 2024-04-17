@@ -26,14 +26,13 @@ Note: Page reloads may take up to 20 seconds as free deployment
 - **Vite**: Build tool and development server for frontend development.
 
 ### Features-
-- User SignUp is secured with permission checks.
-- Access control restricts Profile, Looking-for, and Email-verification pages pages based on sign-in status.
-- Thank-you emails sent on user data updates.
-- Robust error handling on frontend and backend.
-- Scalable, organized folder structure.
-- Efficient state management with Redux.
-- Persistent user sessions across reloads.
-- Live conversation updates with bell sound because of sockets
+- User SignUp/SignIn functionality for authentication.
+- Ability to add emojis during chat for richer communication.
+- Like button that appears on chat hover, allowing multiple likes (likes count is not stored in the backend currently).
+- Robust error handling on both frontend and backend.
+- Organized, scalable folder structure for easier maintenance and future development.
+- Efficient state management using Zustand.
+
 
 ## Setup
 To set up the project, follow these steps:
